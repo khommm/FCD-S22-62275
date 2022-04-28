@@ -1,17 +1,18 @@
-# Example Project
+Diamond Parametric
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/23065167/163903918-9d8c0cf8-3e32-4224-be9a-24e77a0e0f5f.png" />
     <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
 </p>
 
-This is an example project in the FCD S22 repo. It is meant to demonstrate the correct format and content expected for uploading materials. This area is used to reiterate the project description from my M6 submission. I could also describe the M6 prompt.
+The Diamond Parametric structure is located on the front lawn of CFA. The structure is meant to be a zone of relaxation and shade from the sunlight. During hot summer days, students may find themselves laying under the structure after a long day of stressful work. Though the structure provides vast amounts of shade, it’s most appearant feature is spotlightof sunlight that shines through the structure. This spotlight is created by the open panels concentrated on the facade.
 
 **Contents**
 
-- `.pdf` of M6 submission
-- additional `.gifs` or animated content
-- `.gh` script file
+
+- pdf` M6 submission
+- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/104544850/165671500-43f98ef2-086c-4d99-8cea-06173fca996b.gif) animated content
+- `.gh` generates the space frame 
 - `.3dm` CAD model file
 - this `.md` README
 
